@@ -1,1 +1,1 @@
-print("New Hello Git!");;;;;sasasdasda
+print("New Hello Git v2!")
