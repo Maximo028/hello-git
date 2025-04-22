@@ -1,2 +1,1 @@
-print("Hello Git!ssssssssssssssssssss")
-print("Hello Git! sasasasa")
+print("Hello Git!")
